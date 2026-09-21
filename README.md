@@ -8,4 +8,4 @@ Group 2 SM:
 
 Group 3 SM:
 
-This portion was edited by Sir Jerry
+helow lekor
