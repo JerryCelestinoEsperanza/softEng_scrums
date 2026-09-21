@@ -7,5 +7,4 @@ Group 1 SM: Alexander Campita
 Group 2 SM:
 JOeAndreRoja
 
-Group 3 SM:
-
+Group 3 SM: Heindrich Himmler Macalinao
